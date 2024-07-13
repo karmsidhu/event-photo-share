@@ -80,13 +80,14 @@ body {
 
 .text-container h1 {
   font-size: 4rem;
-  color: lightcoral;
+  color: #ebbf13;
   margin: auto 20px;
 }
 
 .text-container p {
   font-size: 1.5rem;
-  color: rgb(240, 128, 128, 0.75);
+  color: rgb(235, 191, 19);
+  opacity: 0.75;
   margin-left: 1rem;
   margin-right: 1rem;
 }
@@ -103,8 +104,8 @@ body {
   vertical-align: middle;
   backdrop-filter: blur(10px) saturate(180%);
   -webkit-backdrop-filter: blur(10px) saturate(180%);
-  background-color: rgba(240, 128, 128, 0.3);
-  border: 3px solid rgba(240, 128, 128, 0.6);
+  background-color: rgba(235, 191, 19, 0.3);
+  border: 3px solid rgba(235, 191, 19, 0.6);
 }
 
 .btn a {
