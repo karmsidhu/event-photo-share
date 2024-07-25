@@ -12,8 +12,26 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Bellefair";
+  src: url("fonts/Bellefair-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Eyesome Script";
+  src: url("fonts/EyesomeScript.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
 .great-vibes-regular {
   font-family: "Great Vibes";
+}
+
+.eyesome-script-regular {
+  font-family: "Eyesome Script";
 }
 
 .handlee-regular {
@@ -23,6 +41,15 @@
 
 .handlee-bold {
   font-family: "Handlee";
+  font-weight: 900;
+}
+
+.bellefair-regular {
+  font-family: "Bellefair";
+}
+
+.bellefair-bold {
+  font-family: "Bellefair";
   font-weight: 900;
 }
 
