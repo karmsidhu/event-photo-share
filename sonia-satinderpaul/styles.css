@@ -107,14 +107,13 @@ body {
 
 .text-container h1 {
   font-size: 4rem;
-  color: #ebbf13;
+  color: peachpuff;
   margin: auto 20px;
 }
 
 .text-container p {
   font-size: 1.5rem;
-  color: rgb(235, 191, 19);
-  opacity: 0.75;
+  color: peachpuff;
   margin-left: 1rem;
   margin-right: 1rem;
 }
@@ -123,7 +122,7 @@ body {
   display: flex;
   padding: 20px;
   margin: 20px 20px;
-  color: #0000009d;
+  color: rgb(255, 218, 185);
   text-decoration: none;
   font-size: 1.5rem;
   cursor: pointer;
@@ -131,12 +130,12 @@ body {
   vertical-align: middle;
   backdrop-filter: blur(10px) saturate(180%);
   -webkit-backdrop-filter: blur(10px) saturate(180%);
-  background-color: rgba(235, 191, 19, 0.3);
-  border: 3px solid rgba(235, 191, 19, 0.6);
+  background-color: rgba(255, 218, 185, 0.3);
+  border: 3px solid rgba(255, 218, 185, 0.6);
 }
 
 .btn a {
-  color: black;
+  color: peachpuff;
   text-decoration: none;
   opacity: 0.75;
 }
@@ -144,7 +143,7 @@ body {
 .button-icon {
   position: absolute;
   left: 25px;
-  fill: black;
+  fill: peachpuff;
   height: 2rem;
   width: 2rem;
   opacity: 0.75;
